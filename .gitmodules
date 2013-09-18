@@ -1,3 +1,4 @@
 [submodule "deploy"]
-	path = deploy
-	url = git@github.com:zhangsu/resume.git
+  path = deploy
+  url = git@github.com:zhangsu/resume.git
+  branch = gh-pages
